@@ -1,2 +1,2 @@
 # ADD-COMMIT-PUSH-
-this will be the most commit repo ever
+this will be the most commited repo ever
